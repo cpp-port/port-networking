@@ -1,0 +1,4 @@
+[submodule "libdatachannel"]
+	path = libdatachannel
+	url = ../../paullouisageneau/libdatachannel
+	branch = master
