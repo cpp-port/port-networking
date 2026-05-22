@@ -6,10 +6,6 @@
 	path = libjuice
 	url = ../libjuice
 	branch = main
-[submodule "libsrtp"]
-	path = libsrtp
-	url = ../libsrtp
-	branch = main
 [submodule "usrsctp"]
 	path = usrsctp
 	url = ../usrsctp
