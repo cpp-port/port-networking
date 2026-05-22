@@ -10,3 +10,7 @@
 	path = libsrtp
 	url = ../libsrtp
 	branch = main
+[submodule "usrsctp"]
+	path = usrsctp
+	url = ../usrsctp
+	branch = main
